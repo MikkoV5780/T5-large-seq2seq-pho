@@ -1,7 +1,8 @@
 # T5-large-seq2seq-pho
 PhosphoT5: Enhanced T5-Large for Phosphorylation Site Prediction
 Overview
-This repository contains an improved version of the T5-large model adapted for the sequence-to-sequence task of predicting protein phosphorylation sites. The model has been enhanced with custom modifications to better handle the transition from annotated to non-annotated protein sequences for accurate phosphorylation site prediction.
+This repository contains an improved version of the T5-large model adapted for the sequence-to-sequence task of predicting protein phosphorylation sites. 
+The model has been enhanced with custom modifications to better handle the transition from annotated to non-annotated protein sequences for accurate phosphorylation site prediction.
 Key Features
 •	Specialized Seq2Seq Architecture: Optimized T5-large model for transforming protein sequences with annotated features to sequences with predicted phosphorylation sites
 •	Custom Modifications: Implemented specific architectural changes to improve prediction accuracy for post-translational modifications
